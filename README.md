@@ -1,3 +1,5 @@
+![Python package](https://github.com/jpwhalley/ci_course_start/workflows/Python%20package/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
