@@ -48,3 +48,5 @@ Upgrade the build tools and install this project:
 pip install --upgrade pip setuptools wheel
 pip install -e .[dev,docs]
 ```
+
+Documentation can be viewed at https://ci-course-start.readthedocs.io/en/latest/?
